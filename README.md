@@ -1,4 +1,5 @@
  - Hi, I’m @EinsZwo
+ - Masters student in computational linguistics
  - Interested in Natural Language Processing
 
 <!---
