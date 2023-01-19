@@ -1,6 +1,6 @@
  - Hi, I’m @EinsZwo
  - Masters student in computational linguistics
- - Interested in Natural Language Processing
+ - Interested in natural language processing, hip hop music, and gaming
 
 <!---
 EinsZwo/EinsZwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
