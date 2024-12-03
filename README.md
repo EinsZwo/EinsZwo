@@ -1,5 +1,5 @@
  - Hi, I’m Matt
- - I'm a computational linguist and NLP researcher
+ - I'm a computational linguist and an NLP researcher
  - Interested in natural language processing, hip hop music, and gaming
 
 <!---
